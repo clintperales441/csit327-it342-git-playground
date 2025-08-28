@@ -1,0 +1,4 @@
+- Year/Section: 4rd Year / G01
+- Favorite Language: React
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @clintperales441
