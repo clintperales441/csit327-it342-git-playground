@@ -17,4 +17,4 @@
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
 - verano, joel (**@VeranoJoel**)
-- Perales, Clint(**clintperales441**)
+- Perales, Clint(**@clintperales441**)
